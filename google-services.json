@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030622900921",
+    "project_id": "crud-firebase-d5a74",
+    "storage_bucket": "crud-firebase-d5a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030622900921:android:03dbcc05f85fab1c152168",
+        "android_client_info": {
+          "package_name": "com.hendyapp.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030622900921-uk9r889t4orfspohd3rvo9c8o2lsfpse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgvO5JjoNs0s46gndQHTNu2nzi3cZqwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030622900921-uk9r889t4orfspohd3rvo9c8o2lsfpse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
